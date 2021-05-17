@@ -948,7 +948,7 @@ Footer
   }
 
   .quote-phrase {
-    width: 25rem;
+    width: 20rem;
   }
   .social-icons {
     margin: 2rem 0;
@@ -1036,6 +1036,7 @@ Footer
   }
   .quote-phrase {
     width: 15rem;
+    top: 30%;
   }
   .quote-dots {
     bottom: 15%;
