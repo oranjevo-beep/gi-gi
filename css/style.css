@@ -796,10 +796,7 @@ Footer
     width: 12.875rem;
     height: 11.875rem;
   }
-  /* .service:first-child,
-  .service:nth-child(5) {
-    border-left: 2px solid var(--clr-secondary);
-  } */
+
   .service-text {
     margin-left: 2rem;
     max-width: 45rem;
@@ -1039,6 +1036,9 @@ Footer
   }
   .quote-phrase {
     width: 15rem;
+  }
+  .quote-dots {
+    bottom: 15%;
   }
   .social-icons {
     flex-direction: column;
